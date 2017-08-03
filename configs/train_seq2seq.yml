@@ -1,4 +1,3 @@
-buckets: None
 hooks:
   - class: PrintModelAnalysisHook
   - class: MetadataCaptureHook
